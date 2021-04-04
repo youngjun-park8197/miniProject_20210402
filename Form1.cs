@@ -11,7 +11,7 @@ using System.IO;
 using System.Data.SqlClient;
 
 
-// 지역명에 대한 콤보박스 검색을 위해 구조체 선언(검색했으나 모르겠어서 실패)
+// 지역명에 대한 콤보박스 검색을 위해 구조체 선언(검색했으나 모르겠어서 실패) 추가 작업 필요
 /*public struct Province
 {
     public string[] prov;
