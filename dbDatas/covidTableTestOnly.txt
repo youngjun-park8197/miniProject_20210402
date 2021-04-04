@@ -1,0 +1,7 @@
+Id,Name,Gender,Age,Province,Vaccine,Covid19
+8704,Park,M,23,Seoul,N,N
+8705,Kim,F,26,Gyeonggi,O,N
+8706,Jun,F,17,Busan,N,N
+8707,Tom,F,29,Gyeongju,O,N
+8708,Jin,M,35,Ulsan,N,N
+8709,Pall,F,23,Seoul,O,O

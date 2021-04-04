@@ -1,0 +1,26 @@
+Id, Name, Gender, Age, Province, Vaccine, Covid19
+8704, Jason,  M,  23,  Seoul,  N,  N
+8705, Lee,  F,  26,  Gyeonggi,  O,  N
+8706, Etron,  F,  17,  Busan,  N,  N
+8707,  Tom,  F,  29,  Gyeongju,  O,  N
+8708,  Jin,  M,  35,  Ulsan,  N,  N
+8709,  Pall,  F,  23,  Seoul,  O,  O
+8710,  Chris,  F,  36,  Bucheon,  N,  N
+8711,  Vincent,  M,  30,  Pohang,  N,  N
+8712,  Vincenzo,  M,  24,  Gwangju,  O,  O
+8713,  Casano,  M,  52,  Seoul,  O,  O
+8714,  Park,  M,  23,  Seoul,  N,  N
+8715,  Kim,  F,  26,  Gyeonggi,  O,  N
+8716,  Chris,  F,  17,  Seoul,  N,  N
+8717,  Vincent,  F,  29,  Bucheon,  O,  O
+8718,  Jin,  M,  30,  Pohang,  N,  N
+8719,  Pall,  M,  24,  Gyeonggi,  O,  N
+8720,  Chris,  F,  29,  Seoul,  O,  N
+8721,  Vincent,  F,  30,  Bucheon,  O,  O
+8722,  Vincenzo,  M,  24,  Pohang,  O,  N
+8723,  Casano,  F,  36,  Bucheon,  N,  N
+8724,  Park,  M,  30,  Pohang,  N,  N
+8725,  Kim,  F,  24,  Seoul,  N,  N
+8726,  Jun,  F,  52,  Gyeonggi,  O,  O
+8727,  Jin,  F,  17,  Busan,  N,  N
+8728,  Pall,  M, 
